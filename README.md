@@ -38,6 +38,9 @@ Sistem, **Google Gemini Pro** ve **vektör tabanlı benzerlik araması** kullana
 
 ## 📊 Veri Seti Hakkında
 
+Veri seti tamamen açık kaynak olup ek bir toplama işlemi yapılmamıştır.
+Hugging Face veri seti, proje amacına uygun olacak şekilde filtrelenip yerel örneklerle zenginleştirilmiştir.
+
 ### 🔹 1. Hugging Face - Awesome ChatGPT Prompts  
 **URL:** [https://huggingface.co/datasets/fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)  
 **Açıklama:** Farklı kategorilerdeki başarılı ve optimize prompt örneklerinden oluşan açık kaynak veri seti.  
@@ -207,3 +210,19 @@ Metrikler:
  ┣ 📜 requirements.txt        → Gerekli kütüphaneler
  
  ┗ 📁 __pycache__             → Derleme çıktıları
+
+---
+## 🌐 Web Uygulaması
+[🔗 PromptLab Canlı Demo](https://promptlab-frvuzjrc2rvacqut6nxgsu.streamlit.app/)
+
+---
+## 🖼️ Ekran Görüntüleri ve Video
+
+https://github.com/user-attachments/assets/1b400024-37d3-4f71-9c38-c8966befcbed
+
+<img width="1918" height="873" alt="Ekran görüntüsü 2025-10-22 170120" src="https://github.com/user-attachments/assets/215ed3a7-66a1-49ad-8096-d03a4b57921c" />
+
+<img width="1918" height="863" alt="Ekran görüntüsü 2025-10-22 170246" src="https://github.com/user-attachments/assets/f179171e-da3d-422f-bd9b-ca263feec22f" />
+
+
+
